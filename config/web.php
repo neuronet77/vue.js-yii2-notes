@@ -5,7 +5,7 @@ $db = require __DIR__ . '/db.php';
 
 $config = [
     'id' => 'basic',
-    'name' => 'TheCodeholic\'s notes',
+    'name' => 'GerTeX Notes',
     'basePath' => dirname(__DIR__),
     'bootstrap' => ['log'],
     'aliases' => [
